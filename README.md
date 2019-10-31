@@ -1,4 +1,4 @@
-<img width="20%" src="./assets/icon.png"/>
+<img width="10%" src="./assets/icon.png"/>
 
 # Weclikd Inc. Frontend
 
